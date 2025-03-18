@@ -40,29 +40,6 @@ Fruity AI: Hello! How can I assist you today? Feel free to ask me about any frui
 You: What is a Pineapple?
 Fruity AI: Pineapples are tropical fruits with juicy, sweet, and tangy yellow flesh. Rich in vitamins and enzymes.
 ```
-
-## 📺 Embeds Preview
-You can also add **beautiful embeds** to enhance user experience by modifying the bot's responses to include rich text formatting.
-
-Example Embed Response:
-```python
-import discord
-from discord.ext import commands
-
-bot = commands.Bot(command_prefix="!")
-
-@bot.event
-async def on_ready():
-    print(f'Bot is ready as {bot.user}')
-
-@bot.command()
-async def fruit(ctx, *, query):
-    embed = discord.Embed(title="Fruity AI Response", description=f"Here's what I found about {query}:", color=0x00ff00)
-    embed.add_field(name="Information", value="Pineapples are tropical fruits with juicy, sweet, and tangy yellow flesh. Rich in vitamins and enzymes.", inline=False)
-    embed.set_footer(text="Fruity AI - Your Fruit Expert")
-    await ctx.send(embed=embed)
-
-bot.run('YOUR_BOT_TOKEN')
 ```
 
 ## 📁 Model Training & Saving
