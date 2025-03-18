@@ -1,6 +1,6 @@
-# Fruity AI Model 🍎🍌🍇
+# Fruit Information AI Model 🍎🍌🍇
 
-This is a **simple AI model** built using Python that can respond to questions about various fruits in a natural, human-like manner. It also greets users when they say "Hello" or similar phrases. The model uses **Count Vectorization** and **Naive Bayes Classification** for text understanding and response generation.
+This is a **simple yet advanced AI model** built using Python that can respond to questions about various fruits in a natural, human-like manner. It also greets users when they say "Hello" or similar phrases. The model uses **Count Vectorization** and **Naive Bayes Classification** for text understanding and response generation.
 
 ## 📌 Features
 - Provides information about a wide range of fruits.
@@ -40,7 +40,6 @@ Fruity AI: Hello! How can I assist you today? Feel free to ask me about any frui
 You: What is a Pineapple?
 Fruity AI: Pineapples are tropical fruits with juicy, sweet, and tangy yellow flesh. Rich in vitamins and enzymes.
 ```
-```
 
 ## 📁 Model Training & Saving
 The model is trained directly when you run the code. You can expand the model by adding more fruits and conversation prompts.
@@ -60,4 +59,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 Happy coding! 😊
-
