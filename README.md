@@ -1,4 +1,4 @@
-# Fruit Information AI Model 🍎🍌🍇
+# Fruity AI Model 🍎🍌🍇
 
 This is a **simple yet advanced AI model** built using Python that can respond to questions about various fruits in a natural, human-like manner. It also greets users when they say "Hello" or similar phrases. The model uses **Count Vectorization** and **Naive Bayes Classification** for text understanding and response generation.
 
