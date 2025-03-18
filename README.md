@@ -35,7 +35,7 @@ The model will now await your input. Type something like:
 ## 🤖 Example Conversation
 ```plaintext
 You: Hi
-Fruity AI: Hello! How can I assist you today? Feel free to ask me about any fruit you want to know about!
+Fruity AI: Hello! How can I assist you today?
 
 You: What is a Pineapple?
 Fruity AI: Pineapples are tropical fruits with juicy, sweet, and tangy yellow flesh. Rich in vitamins and enzymes.
